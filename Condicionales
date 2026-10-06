@@ -1,0 +1,8 @@
+calificacion = 8.5
+
+if calificacion >= 9.0:
+    print("Excelente")
+elif calificacion >= 7.0:
+    print("Aprobado")
+else:
+    print("Reprobado")

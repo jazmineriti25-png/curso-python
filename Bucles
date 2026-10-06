@@ -1,0 +1,8 @@
+print("Conteo del 1 al 5:")
+for i in range(1, 6):
+    print(f"Número: {i}")
+
+contador = 3
+while contador > 0:
+    print(f"Cuenta regresiva: {contador}")
+    contador -= 1
